@@ -27,7 +27,6 @@ namespace DemoWebAPI.Controllers
         [HttpGet("{id}")]
         public async Task<Person> Get(int id)
         {
-            await Task.Delay(1000);
             return provider.GetPeople().FirstOrDefault(p => p.Id == id);
         }
 

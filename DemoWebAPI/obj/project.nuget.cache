@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OzNmPFH7h+5jvlo1fiRfHOLHcDXBsb+X37NmnYf06U6vQv48iHQsVg0TRaSGyGM561EAEwfnX9ENolz47DVhOw==",
+  "dgSpecHash": "3YZbqg4gtzTU8bXU4oP0EKm3iWMTM8Za/o+mMglUii/4/B9XsrM+WG4LhsI5idc6UyV+JPYs8KxLyC44YC4ZfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AFREE\\Documents\\Golang Demo\\DemoWebAPI\\DemoWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\AFREE\\Documents\\Golang Demo\\Learning-Go-lang\\DemoWebAPI\\DemoWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AFREE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\AFREE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

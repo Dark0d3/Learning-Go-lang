@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AFREE\\Documents\\Golang Demo\\DemoWebAPI\\DemoWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\AFREE\\Documents\\Golang Demo\\Learning-Go-lang\\DemoWebAPI\\DemoWebAPI.csproj",
       "projectName": "DemoWebAPI",
-      "projectPath": "C:\\Users\\AFREE\\Documents\\Golang Demo\\DemoWebAPI\\DemoWebAPI.csproj",
+      "projectPath": "C:\\Users\\AFREE\\Documents\\Golang Demo\\Learning-Go-lang\\DemoWebAPI\\DemoWebAPI.csproj",
       "packagesPath": "C:\\Users\\AFREE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AFREE\\Documents\\Golang Demo\\DemoWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\AFREE\\Documents\\Golang Demo\\Learning-Go-lang\\DemoWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AFREE\\AppData\\Roaming\\NuGet\\NuGet.Config",
